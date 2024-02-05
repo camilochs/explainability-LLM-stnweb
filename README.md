@@ -1,2 +1,3 @@
-## Explainable AI in the Realm of STNWeb: Automating the Analysis of Optimization Algorithm Behavior with Large Language Models
-Supplementary material for the paper: "Explainable AI in the Realm of STNWeb: Automating the Analysis of Optimization Algorithm Behavior with Large Language Models"
+## Paper: Large Language Models for the Automated Analysis of Optimization Algorithms
+
+Supplementary material can be found [here](LLMs_STNWeb__Supplementary_Material.pdf).
